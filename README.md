@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishita1810
+- 👋 Hi, I’m Kishita
 - 👀 I’m interested in robotics and computer vision
 - 🌱 I’m currently pursuing my Bachelors in Robotics and Automation
 - 💞️ I’m looking to collaborate on robotics related projects
