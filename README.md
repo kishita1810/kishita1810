@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kishita
 - 👀 I’m interested in robotics and computer vision
-- 🌱 I’m currently pursuing my Bachelors in Robotics and Automation
 - 💞️ I’m looking to collaborate on robotics related projects
 - 📫 You can get in touch with me through LinkedIn : https://www.linkedin.com/in/kishitapakhrani 
           and Email: pakhranikishita@gmail.com
